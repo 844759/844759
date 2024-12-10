@@ -27,4 +27,3 @@ I am currently a fourth-year Computer Engineering student specializing in Comput
 # My stats:
 ![](https://github-readme-stats.vercel.app/api?username=844759&theme=aura&hide_border=false&include_all_commits=false&count_private=true) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=844759&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=844759&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
