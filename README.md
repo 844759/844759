@@ -1,5 +1,5 @@
 # About me: 
-I am currently a fourth-year Computer Engineering student specializing in Computing. I have a strong interest in areas such as robotics, computer vision, and computer graphics, which has enabled me to develop a solid foundation of knowledge in these fields. I am eager to apply my skills in an innovative environment, combining theory and practice in real-world projects.
+I am currently a master student in Zaragoza. I have a strong interest in areas such as robotics, computer vision, and computer graphics, which has enabled me to develop a solid foundation of knowledge in these fields. I am eager to apply my skills in an innovative environment, combining theory and practice in real-world projects.
 
 # Programming languages ​​I know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
